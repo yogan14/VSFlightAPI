@@ -1,1 +1,1 @@
-"New content..." 
+"Let there be rock!" 
